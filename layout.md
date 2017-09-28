@@ -8,3 +8,4 @@ figures/figure_1
 0kqfp0koji8.html
 figures/carto
 fjjc6is3keg.html
+figures/d3js
