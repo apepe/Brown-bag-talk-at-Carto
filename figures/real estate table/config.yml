@@ -18,3 +18,5 @@ grid:
     - 1
     url: "/users/3/articles/202471/master/file/figures/real%20estate%20table/real%20estate%20table.xlsx"
     folder_url: "/users/3/articles/202471/master/folder/figures/real estate table"
+    fontSize: footnotesize
+    maxRows: '40'
